@@ -34,7 +34,7 @@ fuente, RS.
 
 **6.5 PROCEDIMIENTO**
 
-6.5.1. Arme el circuito que se muestra en la figura 6.1.
+**6.5.1. Arme el circuito que se muestra en la figura 6.1.**
 
 ![image](https://user-images.githubusercontent.com/116774235/212248862-f8bb833a-c501-46e0-a317-8d4a9be0ab8f.png)
 
@@ -44,8 +44,8 @@ fuente, RS.
 
 *Circuito Físico Armado:*
 
-6.5.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1.
-Anote los resultados medidos.
+**6.5.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1.
+Anote los resultados medidos.**
 
 * **RESISTENCIA DE 220Ω**
 
@@ -191,8 +191,8 @@ Anote los resultados medidos.
 
 ![image](https://user-images.githubusercontent.com/116774235/212315678-4afe0ad4-be95-440e-8285-ff9003a3b3b1.png)
 
-6.5.3. Calcule la potencia consumida por RL, para cada valor dado y anote los
-resultados en la tabla 6.1.
+**6.5.3. Calcule la potencia consumida por RL, para cada valor dado y anote los
+resultados en la tabla 6.1.**
 
 * **RESISTENCIA DE 220**
 
@@ -262,8 +262,8 @@ resultados en la tabla 6.1.
 
 ![image](https://user-images.githubusercontent.com/116774235/212327042-e518df52-23b3-437a-a18c-c62ac80b19e1.png)
 
-6.5.4. Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote
-los resultados en la tabla 6.1.
+**6.5.4. Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote
+los resultados en la tabla 6.1.**
 
 * **RESISTENCIA DE 220**
 
@@ -321,13 +321,13 @@ los resultados en la tabla 6.1.
 
 ![image](https://user-images.githubusercontent.com/116774235/212328577-87817cdb-9d30-43ec-87e0-64fbd9d8c963.png)
 
-6.5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
-respuesta.
+**6.5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
+respuesta.**
 
 No, debido a que el teorema nos dice que la potencia máxima se transfiere desde una fuente hasta una carga cuando la resistencia de la carga es igual a la resistencia interna de la fuente, es decir, para que exista una máxima transferencia de potencia, la resistencia de la carga tendría que ser de 1.2k Ω.
 Por lo tanto, tenemos: 1.2 kΩ ≠ 1 kΩ
 
-6.5.5. ¿Cuál fue la potencia máxima en RL?
+**6.5.5. ¿Cuál fue la potencia máxima en RL?**
 
 * Valor teórico: 0.007 W
 
@@ -335,11 +335,11 @@ Por lo tanto, tenemos: 1.2 kΩ ≠ 1 kΩ
 
 * Valor simulado: 0.008 W
 
-6.5.6. ¿Para qué valor de RL se obtiene la MTP?
+**6.5.6. ¿Para qué valor de RL se obtiene la MTP?**
 
 Se obtiene la MTP para el valor de RL de 1000 Ω
 
-6.5.7. Grafique la curva Potencia vs RL y comente.
+**6.5.7. Grafique la curva Potencia vs RL y comente.**
 
 **TABLA DE VALORES (VALORES TEÓRICOS)**
 
