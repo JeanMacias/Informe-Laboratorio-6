@@ -258,6 +258,70 @@ resultados en la tabla 6.1.
 
 ![image](https://user-images.githubusercontent.com/116774235/212322188-e89be778-6cba-4865-b51b-9ea3ed7023b1.png)
 
+***Tabla 6.1: Parámetros eléctricos del circuito de la figura 6.1***
+
+![image](https://user-images.githubusercontent.com/116774235/212327042-e518df52-23b3-437a-a18c-c62ac80b19e1.png)
+
+6.5.4. Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote
+los resultados en la tabla 6.1.
+
+* **RESISTENCIA DE 220**
+
+*Potencia medida en el simulador:*
+
+![image](https://user-images.githubusercontent.com/116774235/212327314-aa21c5d3-8f50-443e-ad5f-d97ee17c42fc.png)
+
+* **RESISTENCUA DE 470**
+
+*Potencia medida en el simulador:*
+
+![image](https://user-images.githubusercontent.com/116774235/212327450-5df883db-c233-48e4-a858-beec0080078e.png)
+
+* **RESISTENCIA DE 680**
+
+*Potencia medida en el simulador:*
+
+![image](https://user-images.githubusercontent.com/116774235/212327579-9c34d4d4-2efc-43a6-9677-dd82bbf6e7dc.png)
+
+* **RESISTENCIA DE 820**
+
+*Potencia medida en el simulador:*
+
+![image](https://user-images.githubusercontent.com/116774235/212327698-0829f05e-aee4-4f31-9655-0f4700468d13.png)
+
+* **RESISTENCIA DE 1000:**
+
+*Potencia medida en el simulador:*
+
+![image](https://user-images.githubusercontent.com/116774235/212327823-ab92aeaa-bdb7-476f-ad1f-facc554dac4b.png)
+
+* **RESISTENCIA DE 1500**
+
+*Potencia medida en el simulador:*
+
+![image](https://user-images.githubusercontent.com/116774235/212328012-179b253a-ac85-4ec5-8599-c1f15fdae224.png)
+
+* **RESISTENCIA DE 1800**
+
+![image](https://user-images.githubusercontent.com/116774235/212328160-f41581a2-38e4-4f5a-9df1-99a1fd8c859e.png)
+
+* **RESISTENCIA DE 2200**
+
+![image](https://user-images.githubusercontent.com/116774235/212328232-4eedf206-bf3f-4f1e-bac0-aa2661459c29.png)
+
+* **RESISTENCIA DE 3900**
+
+![image](https://user-images.githubusercontent.com/116774235/212328315-4e2eb409-71af-4366-8065-124ac9738acb.png)
+
+* **RESISTENCIA DE 4700**
+
+![image](https://user-images.githubusercontent.com/116774235/212328392-0bb139be-1228-4703-9a15-b8f51e18eac3.png)
+
+***Tabla 6.1: Parámetros eléctricos del circuito de la figura 6.1***
+
+![image](https://user-images.githubusercontent.com/116774235/212328577-87817cdb-9d30-43ec-87e0-64fbd9d8c963.png)
+
+
 
 
 
