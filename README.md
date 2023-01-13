@@ -494,7 +494,11 @@ Se obtiene la MTP para el valor de RL de 1000 Ω
 
 ![image](https://user-images.githubusercontent.com/116774235/212338893-53231780-af3d-4e1a-8e51-670ba9dab46a.png)
 
+# **CONCLUSIONES**
 
+# **BIBLIOGRAFÍA**
+
+FLOYD, THOMAS L.Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007
 
 
 
