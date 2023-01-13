@@ -37,3 +37,11 @@ fuente, RS.
 6.5.1. Arme el circuito que se muestra en la figura 6.1.
 
 ![image](https://user-images.githubusercontent.com/116774235/212248862-f8bb833a-c501-46e0-a317-8d4a9be0ab8f.png)
+
+*Circuito Armado en el Simulador:*
+
+![image](https://user-images.githubusercontent.com/116774235/212252047-4684ad92-aeab-4822-b6ff-87804d5e47c7.png)
+
+*Circuito Físico Armado:*
+
+
