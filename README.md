@@ -53,6 +53,10 @@ Anote los resultados medidos.
 
 ![image](https://user-images.githubusercontent.com/116774235/212256682-74880762-fa92-4c04-8a93-9b36b79f35da.png)
 
+*Corriente medida en el simulador:*
+
+![image](https://user-images.githubusercontent.com/116774235/212312874-aa641b13-4e3c-49d0-9892-43916f926afd.png)
+
 *Cálculos realizados:*
 
 ![image](https://user-images.githubusercontent.com/116774235/212255572-d1fb6b84-15d6-467c-8cf5-7808a85906d6.png)
@@ -62,6 +66,10 @@ Anote los resultados medidos.
 *Voltaje medido en el simulador:*
 
 ![image](https://user-images.githubusercontent.com/116774235/212255847-b766784d-7087-4b52-ac71-4d5ca61406f5.png)
+
+*Corriente medida en el simulador:*
+
+![image](https://user-images.githubusercontent.com/116774235/212313102-5cacfb3b-fdf6-429b-9e28-f5d15cf2b2e7.png)
 
 *Cálculos realizados:*
 
@@ -73,6 +81,10 @@ Anote los resultados medidos.
 
 ![image](https://user-images.githubusercontent.com/116774235/212256389-34e0661a-b962-43d7-a0fb-45457f272ced.png)
 
+*Corriente medida en el simulador:*
+
+![image](https://user-images.githubusercontent.com/116774235/212313228-6399b6b6-0959-4314-b566-50d6ce0dc83c.png)
+
 *Cálculos realizados:*
 
 ![image](https://user-images.githubusercontent.com/116774235/212256937-2a2fe97c-bc33-4f46-bfea-0dbab6654cbd.png)
@@ -82,6 +94,10 @@ Anote los resultados medidos.
 *Voltaje medido en el simulador:*
 
 ![image](https://user-images.githubusercontent.com/116774235/212257187-b8c97bc1-edba-4484-9704-75699184e625.png)
+
+*Corriente medida en el simulador:*
+
+![image](https://user-images.githubusercontent.com/116774235/212313369-79acd3c1-f25f-4e29-a6cf-e94710d36059.png)
 
 *Cálculos realizados:*
 
@@ -93,15 +109,23 @@ Anote los resultados medidos.
 
 ![image](https://user-images.githubusercontent.com/116774235/212257632-6f8dad41-67a3-4d46-a0aa-4fd9da26980a.png)
 
+*Corriente medida en el simulador:*
+
+![image](https://user-images.githubusercontent.com/116774235/212313465-5b58461d-680d-4a9e-9fdd-9eece3526617.png)
+
 *Cálculos realizados:*
 
 ![image](https://user-images.githubusercontent.com/116774235/212257837-e12e2d33-d297-432c-aa90-26a5010207d1.png)
 
 * **RESISTENCIA DE 1500Ω**
 
-*Valor medido en el simulador:*
+*Voltaje medido en el simulador:*
 
 ![image](https://user-images.githubusercontent.com/116774235/212258059-9c61b11b-f873-4650-a422-01f6a7e66a96.png)
+
+*Corriente medida en el simulador:*
+
+![image](https://user-images.githubusercontent.com/116774235/212313577-93e56d2b-f9dc-4e26-957f-2df1d43722f9.png)
 
 *Cálculos realizados:*
 
@@ -109,9 +133,13 @@ Anote los resultados medidos.
 
 * **RESISTENCIA DE 1800Ω**
 
-*Valor medido en el simulador:*
+*Voltaje medido en el simulador:*
 
 ![image](https://user-images.githubusercontent.com/116774235/212258324-10adb0d1-4880-4959-baaa-b66eda34b987.png)
+
+*Corriente medida en el simulador:*
+
+![image](https://user-images.githubusercontent.com/116774235/212313694-7c16e451-32b4-4210-9e18-954b1e078cac.png)
 
 *Cálculos realizados:*
 
@@ -119,9 +147,13 @@ Anote los resultados medidos.
 
 * **RESISTENCIA DE 2200Ω**
 
-*Valor medido en el simulador:*
+*Voltaje medido en el simulador:*
 
 ![image](https://user-images.githubusercontent.com/116774235/212258602-b7490264-4f72-40b1-8f79-8ce2b6143cd1.png)
+
+*Corriente medida en el simulador:*
+
+![image](https://user-images.githubusercontent.com/116774235/212313818-45183afd-b236-4fc0-ae15-47d1167f6928.png)
 
 *Cálculos realizados:*
 
@@ -129,9 +161,13 @@ Anote los resultados medidos.
 
 * **RESISTENCIA DE 3900Ω**
 
-*Valor medido en el simulador:*
+*Voltaje medido en el simulador:*
 
 ![image](https://user-images.githubusercontent.com/116774235/212258932-3c7de28e-d44c-4476-a026-784493c286e2.png)
+
+*Corriente medida en el simulador:*
+
+![image](https://user-images.githubusercontent.com/116774235/212314102-4101b945-78b3-4c93-ac67-fb174d03ea11.png)
 
 *Cálculos realizados:*
 
@@ -139,9 +175,13 @@ Anote los resultados medidos.
 
 * **RESISTENCIA DE 4700Ω**
 
-*Valor medido en el simulador:*
+*Voltaje medido en el simulador:*
 
 ![image](https://user-images.githubusercontent.com/116774235/212259247-dc97dfb4-3050-433c-95d5-4276dae4cddf.png)
+
+*Corriente medida en el simulador:*
+
+![image](https://user-images.githubusercontent.com/116774235/212314222-6bef0db6-b8a0-4002-b0ef-dc018ec38702.png)
 
 *Cálculos realizados:*
 
