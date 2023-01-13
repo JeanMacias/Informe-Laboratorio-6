@@ -198,61 +198,66 @@ resultados en la tabla 6.1.
 
 *Cálculos realizados:*
 
-![image](https://user-images.githubusercontent.com/116774235/212318456-8ebc814e-1963-4601-b476-18ed25286b55.png)
+![Uploading image.png…]()
 
 * **RESISTENCIA DE 470**
 
 *Cálculos realizados:*
 
-![image](https://user-images.githubusercontent.com/116774235/212318763-41d8ba29-b610-4ec4-9c38-38c1dc102fdd.png)
+![image](https://user-images.githubusercontent.com/116774235/212325589-fa48bcc8-1f41-4965-a766-922b94edd04f.png)
+
 
 * **RESISTENCIA DE 680**
 
 *Cálculos realizados:*
 
-![image](https://user-images.githubusercontent.com/116774235/212318933-201a17d2-8582-4e64-82d8-b41dcc81b473.png)
+![image](https://user-images.githubusercontent.com/116774235/212324779-35dcf47a-c343-4450-8b3e-20d7c55f3a90.png)
 
 * **RESISTENCIA DE 820**
 
 *Cálculos realizados:*
 
-![image](https://user-images.githubusercontent.com/116774235/212319126-cb553123-de6f-4059-a2cc-5e762447dc14.png)
+![image](https://user-images.githubusercontent.com/116774235/212324572-2d7961b1-0d35-48bd-833b-04ce8d76f373.png)
 
 * **RESISTENCIA DE 1000**
 
 *Cálculos realizados:*
 
-![image](https://user-images.githubusercontent.com/116774235/212319331-928b5b65-c39f-43b3-92ad-dbc80bc08bc3.png)
+![image](https://user-images.githubusercontent.com/116774235/212324332-46c3957d-0de9-42cb-b101-2d9394fdf83b.png)
 
 * **RESISTENCIA DE 1500**
 
 *Cálculos realizados:*
 
-![image](https://user-images.githubusercontent.com/116774235/212319592-7ba0a869-091e-4ded-b39f-bf84861cf2d4.png)
+![image](https://user-images.githubusercontent.com/116774235/212324186-825c1266-3bed-43b4-bf97-762f9a8c2b35.png)
+
 
 * **RESISTENCIA DE 1800**
 
 *Cálculos realizados:*
 
-![image](https://user-images.githubusercontent.com/116774235/212319757-eb15e5d5-6b6f-4f09-b158-55c8cf642a66.png)
+![image](https://user-images.githubusercontent.com/116774235/212323659-47bf29e8-ce7d-4afe-b84a-19378c6e2bc7.png)
+
 
 * **RESISTENCIA DE 2200**
 
 *Cálculos realizados:*
 
-![image](https://user-images.githubusercontent.com/116774235/212319960-f399a816-d3ed-496d-8469-07e9cf9b4d2b.png)
+![image](https://user-images.githubusercontent.com/116774235/212323439-3072b9c3-58ff-4496-8e1a-9ef508d3428b.png)
 
 * **RESISTENCIA DE 3900**
 
 *Cálculos realizados:*
 
-![image](https://user-images.githubusercontent.com/116774235/212320270-753e305e-301d-48bb-9cc4-acc706102370.png)
+![image](https://user-images.githubusercontent.com/116774235/212322986-f081edb6-2aea-458f-8e48-0d7b06b8f553.png)
+
 
 * **RESISTENCIA DE 4700**
 
 *Cálculos realizados:*
 
-![image](https://user-images.githubusercontent.com/116774235/212320442-9eccdaa8-aa60-4823-8d30-ced24f860cfe.png)
+![image](https://user-images.githubusercontent.com/116774235/212322188-e89be778-6cba-4865-b51b-9ea3ed7023b1.png)
+
 
 
 
