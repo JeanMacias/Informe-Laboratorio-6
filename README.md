@@ -321,6 +321,35 @@ los resultados en la tabla 6.1.
 
 ![image](https://user-images.githubusercontent.com/116774235/212328577-87817cdb-9d30-43ec-87e0-64fbd9d8c963.png)
 
+6.5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
+respuesta.
+
+No, debido a que el teorema nos dice que la potencia máxima se transfiere desde una fuente hasta una carga cuando la resistencia de la carga es igual a la resistencia interna de la fuente, es decir, para que exista una máxima transferencia de potencia, la resistencia de la carga tendría que ser de 1.2k Ω.
+Por lo tanto, tenemos: 1.2 kΩ ≠ 1 kΩ
+
+6.5.5. ¿Cuál fue la potencia máxima en RL?
+
+* Valor teórico: 0.007 W
+
+* Valor experimental: 0.008 W
+
+* Valor simulado: 0.008 W
+
+6.5.6. ¿Para qué valor de RL se obtiene la MTP?
+
+Se obtiene la MTP para el valor de RL de 1000 Ω
+
+6.5.7. Grafique la curva Potencia vs RL y comente.
+
+**TABLA DE VALORES (VALORES TEÓRICOS)**
+
+![image](https://user-images.githubusercontent.com/116774235/212329579-bead2234-817a-4622-8115-d83366d4e471.png)
+
+**GRÁFICA POTENCIA VS RL**
+
+![image](https://user-images.githubusercontent.com/116774235/212329662-29f72e80-500f-4889-a580-7dce95e3971e.png)
+
+**Comentario:** Podemos observar como la gráfica comienza en un valor mínimo y va creciendo poco a poco hasta llegar a un punto máximo, una vez en el punto máximo, esta comienza a descender otra vez.
 
 
 
