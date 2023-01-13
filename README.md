@@ -8,7 +8,15 @@ NRC: 10063
 
 **OBJETIVO GENERAL**
 
+Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
+
 **OBJETIVOS ESPECÍFICOS**
+
+* Realizar el circuito propuesto de manera correcta y funcional.
+
+* Tomar las medidas de volatjes y corrientes en el circuito para comparar el teorema.
+
+* Observar los resultados y concluir si el teorema es funcional.
 
 **6.2 REQUISITOS PREVIOS**
 
@@ -498,6 +506,10 @@ Se obtiene la MTP para el valor de RL de 1000 Ω
 ![image](https://user-images.githubusercontent.com/116774235/212338893-53231780-af3d-4e1a-8e51-670ba9dab46a.png)
 
 # **CONCLUSIONES**
+
+* Con el siguiente informe de laboratorio pudimos observar y aplicar el concepto de MTP el cuál nos habla sobre la transferencia de máxima potencia en un circuito, especialemente cuando se trata de uno de Thevenin. Se aplicó sus características y se vio los pasos necesarios para lograr conseguir esta potencia requerida.
+
+* Se logró responder de manera correcta a las preguntas propuestas por el circuito.
 
 # **BIBLIOGRAFÍA**
 
