@@ -355,6 +355,126 @@ Se obtiene la MTP para el valor de RL de 1000 Ω
 
 *Voltaje:*
 
+![image](https://user-images.githubusercontent.com/116774235/212333712-7f4a2046-6980-4968-b936-da18558cae4d.png)
+
+*Corriente:*
+
+![image](https://user-images.githubusercontent.com/116774235/212333586-095f9ba7-19a5-4668-9970-360dfb55da38.png)
+
+*Potencia:*
+
+* **RESISTENCIA DE 470**
+
+*Voltaje:*
+
+![image](https://user-images.githubusercontent.com/116774235/212334087-eab5d090-1f57-4ae2-a4b7-81cc01e5a1f5.png)
+
+*Corriente:*
+
+![image](https://user-images.githubusercontent.com/116774235/212334293-5e381371-baf1-425c-a3cb-48421fc58cbb.png)
+
+*Potencia:*
+
+* **RESISTENCIA DE 680**
+
+*Voltaje:*
+
+![image](https://user-images.githubusercontent.com/116774235/212334470-c4e9f03b-77bf-43fd-a8e2-4317ad1f6518.png)
+
+*Corriente:*
+
+![image](https://user-images.githubusercontent.com/116774235/212334565-2948251a-24be-4e44-89c5-5eadb1624f90.png)
+
+*Potencia:*
+
+* **RESISTENCIA DE 820**
+
+*Voltaje:*
+
+![image](https://user-images.githubusercontent.com/116774235/212334893-57004461-e993-46ba-8ef9-a6ae4fdb2961.png)
+
+*Corriente:*
+
+![image](https://user-images.githubusercontent.com/116774235/212335049-610d658c-8242-4002-a155-3d6d903616fe.png)
+
+*Potencia:*
+
+* **RESISTENCIA DE 1000**
+
+*Voltaje:*
+
+![image](https://user-images.githubusercontent.com/116774235/212335358-bb951678-51a0-4387-ab00-2a3406dced35.png)
+
+*Corriente:*
+
+![image](https://user-images.githubusercontent.com/116774235/212335563-ef047808-890d-4b3e-9c86-97e78e039021.png)
+
+*Potencia:*
+
+* **RESISTENCIA DE 1500**
+
+*Voltaje:*
+
+![image](https://user-images.githubusercontent.com/116774235/212335812-7d39a35e-3ec5-4b63-b34e-29cd1e4630ea.png)
+
+*Corriente:*
+
+![image](https://user-images.githubusercontent.com/116774235/212335924-b393054b-3f5e-4c06-acce-c4a495f79def.png)
+
+*Potencia:*
+
+* **RESISTENCIA DE 1800**
+
+*Voltaje:*
+
+![image](https://user-images.githubusercontent.com/116774235/212336260-40b240cc-95e9-402a-82c8-5e4bf9c0e786.png)
+
+*Corriente:*
+
+![image](https://user-images.githubusercontent.com/116774235/212336398-976cd890-b4a3-4f0e-88f9-60f3eb640622.png)
+
+*Potencia:*
+
+* **RESISTENCIA DE 2200**
+
+*Voltaje:*
+
+![image](https://user-images.githubusercontent.com/116774235/212336641-10c8e663-a40a-4691-869d-47e72409c1ea.png)
+
+*Corriente:*
+
+![image](https://user-images.githubusercontent.com/116774235/212336760-f54f48b0-936c-42d4-87a2-4696cf98172e.png)
+
+*Potencia:*
+
+* **RESISTENCIA DE 3900**
+
+*Voltaje:*
+
+![image](https://user-images.githubusercontent.com/116774235/212337020-44729680-06de-4c3b-b25f-b655b7a4e5e3.png)
+
+*Corriente:*
+
+![image](https://user-images.githubusercontent.com/116774235/212337138-760f7257-15af-4fcb-aaa3-688809cf9177.png)
+
+*Potencia:*
+
+* **RESISTENCIA DE 4700**
+
+*Voltaje:*
+
+![image](https://user-images.githubusercontent.com/116774235/212337400-999e715e-49bc-4fc4-b825-30d9f0dfb31f.png)
+
+*Corriente:*
+
+![image](https://user-images.githubusercontent.com/116774235/212337520-9e8da502-c508-4232-994d-2ca6a393e5a6.png)
+
+*Potencia:*
+
+
+
+
+
 
 
 
