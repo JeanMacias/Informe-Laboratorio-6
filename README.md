@@ -198,7 +198,7 @@ resultados en la tabla 6.1.
 
 *Cálculos realizados:*
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/116774235/212326245-59e444f1-f191-4556-a15a-369fbaba7428.png)
 
 * **RESISTENCIA DE 470**
 
