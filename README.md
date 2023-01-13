@@ -351,6 +351,11 @@ Se obtiene la MTP para el valor de RL de 1000 Ω
 
 # **CÁLCULO DEL ERROR**
 
+* **RESISTENCIA DE 220**
+
+*Voltaje:*
+
+
 
 
 
