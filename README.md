@@ -42,8 +42,6 @@ fuente, RS.
 
 ![image](https://user-images.githubusercontent.com/116774235/212252047-4684ad92-aeab-4822-b6ff-87804d5e47c7.png)
 
-*Circuito Físico Armado:*
-
 **6.5.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1.
 Anote los resultados medidos.**
 
