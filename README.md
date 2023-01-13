@@ -187,7 +187,12 @@ Anote los resultados medidos.
 
 ![image](https://user-images.githubusercontent.com/116774235/212259391-9f2b30d2-f636-4ee5-8c6c-5b14b7493f26.png)
 
+***Tabla 6.1: Parámetros eléctricos del circuito de la figura 6.1***
 
+![image](https://user-images.githubusercontent.com/116774235/212315678-4afe0ad4-be95-440e-8285-ff9003a3b3b1.png)
+
+6.5.3. Calcule la potencia consumida por RL, para cada valor dado y anote los
+resultados en la tabla 6.1.
 
 
 
