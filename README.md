@@ -312,17 +312,25 @@ los resultados en la tabla 6.1.**
 
 * **RESISTENCIA DE 1800Ω**
 
+*Potencia medida en el simulador:*
+
 ![image](https://user-images.githubusercontent.com/116774235/212328160-f41581a2-38e4-4f5a-9df1-99a1fd8c859e.png)
 
 * **RESISTENCIA DE 2200Ω**
+
+*Potencia medida en el simulador:*
 
 ![image](https://user-images.githubusercontent.com/116774235/212328232-4eedf206-bf3f-4f1e-bac0-aa2661459c29.png)
 
 * **RESISTENCIA DE 3900Ω**
 
+*Potencia medida en el simulador:*
+
 ![image](https://user-images.githubusercontent.com/116774235/212328315-4e2eb409-71af-4366-8065-124ac9738acb.png)
 
 * **RESISTENCIA DE 4700Ω**
+
+*Potencia medida en el simulador:*
 
 ![image](https://user-images.githubusercontent.com/116774235/212328392-0bb139be-1228-4703-9a15-b8f51e18eac3.png)
 
