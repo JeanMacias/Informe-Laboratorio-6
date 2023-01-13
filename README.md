@@ -32,6 +32,9 @@ fuente, RS.
 
 # **MARCO TEÓRICO**
 
+![image](https://user-images.githubusercontent.com/116774235/212339799-1267a5df-a225-421a-8ec7-103f3e271fdf.png)
+
+
 **6.5 PROCEDIMIENTO**
 
 **6.5.1. Arme el circuito que se muestra en la figura 6.1.**
