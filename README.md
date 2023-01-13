@@ -327,7 +327,7 @@ Por lo tanto, tenemos: 1.2 kΩ ≠ 1 kΩ
 
 **6.5.5. ¿Cuál fue la potencia máxima en RL?**
 
-* Valor teórico: 0.007 W
+* Valor teórico: 0.009 W
 
 * Valor experimental: 0.008 W
 
