@@ -47,7 +47,7 @@ fuente, RS.
 6.5.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1.
 Anote los resultados medidos.
 
-* **RESISTENCIA DE 220**
+* **RESISTENCIA DE 220Ω**
 
 *Voltaje medido en el simulador:*
 
@@ -57,7 +57,7 @@ Anote los resultados medidos.
 
 ![image](https://user-images.githubusercontent.com/116774235/212255572-d1fb6b84-15d6-467c-8cf5-7808a85906d6.png)
 
-* **RESISTENCIA DE 470**
+* **RESISTENCIA DE 470Ω**
 
 *Voltaje medido en el simulador:*
 
@@ -67,7 +67,7 @@ Anote los resultados medidos.
 
 ![image](https://user-images.githubusercontent.com/116774235/212256210-8ba094bf-269e-47dd-81f5-12b71d2a68fb.png)
 
-* **RESISTENCIA DE 680**
+* **RESISTENCIA DE 680Ω**
 
 *Voltaje medido en el simulador:*
 
@@ -77,7 +77,7 @@ Anote los resultados medidos.
 
 ![image](https://user-images.githubusercontent.com/116774235/212256937-2a2fe97c-bc33-4f46-bfea-0dbab6654cbd.png)
 
-* **RESISTENCIA DE 820**
+* **RESISTENCIA DE 820Ω**
 
 *Voltaje medido en el simulador:*
 
@@ -87,7 +87,7 @@ Anote los resultados medidos.
 
 ![image](https://user-images.githubusercontent.com/116774235/212257436-6495b161-b33a-465f-91d4-9f67b5417e95.png)
 
-* **RESISTENCIA DE 1000**
+* **RESISTENCIA DE 1000Ω**
 
 *Voltaje medido en el simulador:*
 
@@ -97,7 +97,7 @@ Anote los resultados medidos.
 
 ![image](https://user-images.githubusercontent.com/116774235/212257837-e12e2d33-d297-432c-aa90-26a5010207d1.png)
 
-* **RESISTENCIA DE 1500**
+* **RESISTENCIA DE 1500Ω**
 
 *Valor medido en el simulador:*
 
@@ -107,7 +107,7 @@ Anote los resultados medidos.
 
 ![image](https://user-images.githubusercontent.com/116774235/212258202-406a0346-0de7-479b-ab28-6333e524a2e3.png)
 
-* **RESISTENCIA DE 1800**
+* **RESISTENCIA DE 1800Ω**
 
 *Valor medido en el simulador:*
 
@@ -117,7 +117,7 @@ Anote los resultados medidos.
 
 ![image](https://user-images.githubusercontent.com/116774235/212258440-27133bf7-3c7e-41c4-b7d6-5815299a6d43.png)
 
-* **RESISTENCIA DE 2200**
+* **RESISTENCIA DE 2200Ω**
 
 *Valor medido en el simulador:*
 
@@ -127,7 +127,7 @@ Anote los resultados medidos.
 
 ![image](https://user-images.githubusercontent.com/116774235/212258752-ef2609b7-ef1c-45dc-8886-b19ea8121c5f.png)
 
-* **RESISTENCIA DE 3900**
+* **RESISTENCIA DE 3900Ω**
 
 *Valor medido en el simulador:*
 
@@ -137,7 +137,7 @@ Anote los resultados medidos.
 
 ![image](https://user-images.githubusercontent.com/116774235/212259102-19732248-43bf-40a6-8899-82b3678b9114.png)
 
-* **RESISTENCIA DE 4700**
+* **RESISTENCIA DE 4700Ω**
 
 *Valor medido en el simulador:*
 
