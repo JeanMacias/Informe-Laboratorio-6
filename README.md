@@ -192,65 +192,65 @@ Anote los resultados medidos.**
 **6.5.3. Calcule la potencia consumida por RL, para cada valor dado y anote los
 resultados en la tabla 6.1.**
 
-* **RESISTENCIA DE 220**
+* **RESISTENCIA DE 220Ω**
 
 *Cálculos realizados:*
 
 ![image](https://user-images.githubusercontent.com/116774235/212326245-59e444f1-f191-4556-a15a-369fbaba7428.png)
 
-* **RESISTENCIA DE 470**
+* **RESISTENCIA DE 470Ω**
 
 *Cálculos realizados:*
 
 ![image](https://user-images.githubusercontent.com/116774235/212325589-fa48bcc8-1f41-4965-a766-922b94edd04f.png)
 
 
-* **RESISTENCIA DE 680**
+* **RESISTENCIA DE 680Ω**
 
 *Cálculos realizados:*
 
 ![image](https://user-images.githubusercontent.com/116774235/212324779-35dcf47a-c343-4450-8b3e-20d7c55f3a90.png)
 
-* **RESISTENCIA DE 820**
+* **RESISTENCIA DE 820Ω**
 
 *Cálculos realizados:*
 
 ![image](https://user-images.githubusercontent.com/116774235/212324572-2d7961b1-0d35-48bd-833b-04ce8d76f373.png)
 
-* **RESISTENCIA DE 1000**
+* **RESISTENCIA DE 1000Ω**
 
 *Cálculos realizados:*
 
 ![image](https://user-images.githubusercontent.com/116774235/212324332-46c3957d-0de9-42cb-b101-2d9394fdf83b.png)
 
-* **RESISTENCIA DE 1500**
+* **RESISTENCIA DE 1500Ω**
 
 *Cálculos realizados:*
 
 ![image](https://user-images.githubusercontent.com/116774235/212324186-825c1266-3bed-43b4-bf97-762f9a8c2b35.png)
 
 
-* **RESISTENCIA DE 1800**
+* **RESISTENCIA DE 1800Ω**
 
 *Cálculos realizados:*
 
 ![image](https://user-images.githubusercontent.com/116774235/212323659-47bf29e8-ce7d-4afe-b84a-19378c6e2bc7.png)
 
 
-* **RESISTENCIA DE 2200**
+* **RESISTENCIA DE 2200Ω**
 
 *Cálculos realizados:*
 
 ![image](https://user-images.githubusercontent.com/116774235/212323439-3072b9c3-58ff-4496-8e1a-9ef508d3428b.png)
 
-* **RESISTENCIA DE 3900**
+* **RESISTENCIA DE 3900Ω**
 
 *Cálculos realizados:*
 
 ![image](https://user-images.githubusercontent.com/116774235/212322986-f081edb6-2aea-458f-8e48-0d7b06b8f553.png)
 
 
-* **RESISTENCIA DE 4700**
+* **RESISTENCIA DE 4700Ω**
 
 *Cálculos realizados:*
 
@@ -263,55 +263,55 @@ resultados en la tabla 6.1.**
 **6.5.4. Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote
 los resultados en la tabla 6.1.**
 
-* **RESISTENCIA DE 220**
+* **RESISTENCIA DE 220Ω**
 
 *Potencia medida en el simulador:*
 
 ![image](https://user-images.githubusercontent.com/116774235/212327314-aa21c5d3-8f50-443e-ad5f-d97ee17c42fc.png)
 
-* **RESISTENCUA DE 470**
+* **RESISTENCUA DE 470Ω**
 
 *Potencia medida en el simulador:*
 
 ![image](https://user-images.githubusercontent.com/116774235/212327450-5df883db-c233-48e4-a858-beec0080078e.png)
 
-* **RESISTENCIA DE 680**
+* **RESISTENCIA DE 680Ω**
 
 *Potencia medida en el simulador:*
 
 ![image](https://user-images.githubusercontent.com/116774235/212327579-9c34d4d4-2efc-43a6-9677-dd82bbf6e7dc.png)
 
-* **RESISTENCIA DE 820**
+* **RESISTENCIA DE 820Ω**
 
 *Potencia medida en el simulador:*
 
 ![image](https://user-images.githubusercontent.com/116774235/212327698-0829f05e-aee4-4f31-9655-0f4700468d13.png)
 
-* **RESISTENCIA DE 1000:**
+* **RESISTENCIA DE 1000Ω**
 
 *Potencia medida en el simulador:*
 
 ![image](https://user-images.githubusercontent.com/116774235/212327823-ab92aeaa-bdb7-476f-ad1f-facc554dac4b.png)
 
-* **RESISTENCIA DE 1500**
+* **RESISTENCIA DE 1500Ω**
 
 *Potencia medida en el simulador:*
 
 ![image](https://user-images.githubusercontent.com/116774235/212328012-179b253a-ac85-4ec5-8599-c1f15fdae224.png)
 
-* **RESISTENCIA DE 1800**
+* **RESISTENCIA DE 1800Ω**
 
 ![image](https://user-images.githubusercontent.com/116774235/212328160-f41581a2-38e4-4f5a-9df1-99a1fd8c859e.png)
 
-* **RESISTENCIA DE 2200**
+* **RESISTENCIA DE 2200Ω**
 
 ![image](https://user-images.githubusercontent.com/116774235/212328232-4eedf206-bf3f-4f1e-bac0-aa2661459c29.png)
 
-* **RESISTENCIA DE 3900**
+* **RESISTENCIA DE 3900Ω**
 
 ![image](https://user-images.githubusercontent.com/116774235/212328315-4e2eb409-71af-4366-8065-124ac9738acb.png)
 
-* **RESISTENCIA DE 4700**
+* **RESISTENCIA DE 4700Ω**
 
 ![image](https://user-images.githubusercontent.com/116774235/212328392-0bb139be-1228-4703-9a15-b8f51e18eac3.png)
 
@@ -351,7 +351,7 @@ Se obtiene la MTP para el valor de RL de 1000 Ω
 
 # **CÁLCULO DEL ERROR**
 
-* **RESISTENCIA DE 220**
+* **RESISTENCIA DE 220Ω**
 
 *Voltaje:*
 
@@ -363,7 +363,9 @@ Se obtiene la MTP para el valor de RL de 1000 Ω
 
 *Potencia:*
 
-* **RESISTENCIA DE 470**
+![image](https://user-images.githubusercontent.com/116774235/212337829-decd29fb-32f0-422f-a5c3-c32e8d36b715.png)
+
+* **RESISTENCIA DE 470Ω**
 
 *Voltaje:*
 
@@ -375,7 +377,10 @@ Se obtiene la MTP para el valor de RL de 1000 Ω
 
 *Potencia:*
 
-* **RESISTENCIA DE 680**
+![image](https://user-images.githubusercontent.com/116774235/212338078-82f4706f-9db2-4e8f-be4e-8aa5f64c4096.png)
+
+
+* **RESISTENCIA DE 680Ω**
 
 *Voltaje:*
 
@@ -387,7 +392,9 @@ Se obtiene la MTP para el valor de RL de 1000 Ω
 
 *Potencia:*
 
-* **RESISTENCIA DE 820**
+![image](https://user-images.githubusercontent.com/116774235/212338119-c48a7bcf-7386-4d6e-8f33-2f0c945c13a2.png)
+
+* **RESISTENCIA DE 820Ω**
 
 *Voltaje:*
 
@@ -399,7 +406,10 @@ Se obtiene la MTP para el valor de RL de 1000 Ω
 
 *Potencia:*
 
-* **RESISTENCIA DE 1000**
+![image](https://user-images.githubusercontent.com/116774235/212338285-00d569fa-8fa3-4e6e-9650-853508e3c810.png)
+
+
+* **RESISTENCIA DE 1000Ω**
 
 *Voltaje:*
 
@@ -411,7 +421,9 @@ Se obtiene la MTP para el valor de RL de 1000 Ω
 
 *Potencia:*
 
-* **RESISTENCIA DE 1500**
+![image](https://user-images.githubusercontent.com/116774235/212338412-3538798c-5cb0-455e-bda0-e63bfaca08d6.png)
+
+* **RESISTENCIA DE 1500Ω**
 
 *Voltaje:*
 
@@ -423,7 +435,9 @@ Se obtiene la MTP para el valor de RL de 1000 Ω
 
 *Potencia:*
 
-* **RESISTENCIA DE 1800**
+![image](https://user-images.githubusercontent.com/116774235/212338534-4d6ce96c-ec4f-4760-9f1c-806ed67b7f63.png)
+
+* **RESISTENCIA DE 1800Ω**
 
 *Voltaje:*
 
@@ -435,7 +449,9 @@ Se obtiene la MTP para el valor de RL de 1000 Ω
 
 *Potencia:*
 
-* **RESISTENCIA DE 2200**
+![image](https://user-images.githubusercontent.com/116774235/212338615-8505d17c-61a6-4f52-8b34-73a6bb997671.png)
+
+* **RESISTENCIA DE 2200Ω**
 
 *Voltaje:*
 
@@ -447,7 +463,9 @@ Se obtiene la MTP para el valor de RL de 1000 Ω
 
 *Potencia:*
 
-* **RESISTENCIA DE 3900**
+![image](https://user-images.githubusercontent.com/116774235/212338681-a545b2ea-2ceb-4ead-8a3a-f81e613b8349.png)
+
+* **RESISTENCIA DE 3900Ω**
 
 *Voltaje:*
 
@@ -459,7 +477,10 @@ Se obtiene la MTP para el valor de RL de 1000 Ω
 
 *Potencia:*
 
-* **RESISTENCIA DE 4700**
+![image](https://user-images.githubusercontent.com/116774235/212338814-6f0c791e-6561-4969-89df-f87192d2f75d.png)
+
+
+* **RESISTENCIA DE 4700Ω**
 
 *Voltaje:*
 
@@ -470,6 +491,8 @@ Se obtiene la MTP para el valor de RL de 1000 Ω
 ![image](https://user-images.githubusercontent.com/116774235/212337520-9e8da502-c508-4232-994d-2ca6a393e5a6.png)
 
 *Potencia:*
+
+![image](https://user-images.githubusercontent.com/116774235/212338893-53231780-af3d-4e1a-8e51-670ba9dab46a.png)
 
 
 
