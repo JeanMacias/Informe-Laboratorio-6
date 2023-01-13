@@ -349,6 +349,8 @@ Se obtiene la MTP para el valor de RL de 1000 Ω
 
 **Comentario:** Podemos observar como la gráfica comienza en un valor mínimo y va creciendo poco a poco hasta llegar a un punto máximo, una vez en el punto máximo, esta comienza a descender otra vez.
 
+# **CÁLCULO DEL ERROR**
+
 
 
 
